@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Home and DIY</item>
+        <item>Technology</item>
+        <item>Cars</item>
+        <item>Music and Education</item>
+        <item>Animals</item>
+    </string-array>
+</resources>
